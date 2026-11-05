@@ -1,0 +1,7 @@
+SYSTEM-CHANGES.md
+README.md
+**/.git
+**/*.bak.*
+.config/omarchy/defaults
+.config/omarchy/themed
+**/*.bak
